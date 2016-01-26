@@ -10,4 +10,10 @@
 <url>
 <loc>http://yoursite.com/</loc>
 </url>
+<url>
+<loc>http://yoursite.com/blog/categories/github-pages/</loc>
+</url>
+<url>
+<loc>http://yoursite.com/blog/categories/automatic-deployment/</loc>
+</url>
 </urlset>
