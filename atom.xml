@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-26T08:42:57+00:00</updated>
+  <updated>2016-01-26T09:11:20+00:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Automatic Deployment of Octopress on Github Pages Using Zammu]]></title>
+    <link href="http://yoursite.com/blog/2016/01/26/automatic-deployment-of-octopress-on-github-pages-using-zammu/"/>
+    <updated>2016-01-26T08:56:41+00:00</updated>
+    <id>http://yoursite.com/blog/2016/01/26/automatic-deployment-of-octopress-on-github-pages-using-zammu</id>
+    <content type="html"><![CDATA[<p>In this blog post I&rsquo;ll show you how to setup Automatic Deployment of Octopress on Github Pages using Zammu.</p>
+]]></content>
+  </entry>
   
 </feed>
